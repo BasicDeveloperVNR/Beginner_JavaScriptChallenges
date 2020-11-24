@@ -1,0 +1,19 @@
+RAW info before writing the code:
+
+Step 01) The input is string which is collection of word. We need to convert the string into array of words using split method.
+example: "Hello Mike Testing"   --> String
+after split : ["Hello","Mike","Testing"]
+
+Step 02) We need to compare the length of one word to another until the end word .
+intial comparision start with empty to first index word.
+We can achieve this by three ways,
+  a) Normal For Loop
+  b) Sorting the array by length.
+  c) reduce the given array into one value by it is length..
+
+@Note: Sort and reduce using callback function --> which means Function as a parameter.
+
+Step 03) Print the result of step 02 in calling function.
+
+Programs are:
+1)
