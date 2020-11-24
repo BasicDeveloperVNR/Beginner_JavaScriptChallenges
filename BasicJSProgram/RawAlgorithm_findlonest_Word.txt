@@ -16,4 +16,10 @@ We can achieve this by three ways,
 Step 03) Print the result of step 02 in calling function.
 
 Programs are:
-1)
+/*
+LongString.js
+FindtheLogestWord_sort_method.js
+FindLongestWord_reduceapproach.js
+Reference
+https://www.freecodecamp.org/news/three-ways-to-find-the-longest-word-in-a-string-in-javascript-a2fb04c9757c/
+*/
